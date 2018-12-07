@@ -1,5 +1,7 @@
 ![alt text](https://s3-sa-east-1.amazonaws.com/www.vinta.com.br/images/dont_delete/devchecklist-logo.png "Devchecklists Logo")
 
+# Weekly Meeting Checklist
+
 ## Creation and Submission:
 ### Follow the steps above to create and deploy your checklist:
   * [ ] 1. Fork this repository;
