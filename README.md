@@ -1,6 +1,7 @@
 ![alt text](https://s3-sa-east-1.amazonaws.com/www.vinta.com.br/images/dont_delete/devchecklist-logo.png "Devchecklists Logo")
 
 # Weekly Meeting Checklist
+Not every meeting needs to be unproductive. Focusing the meeting in sharing knowledge can give a new meaning to a moment usually reserved to discussing updates. Here is a list of questions to keep the meeting to a minimum.
 
 ## Creation and Submission:
 ### Follow the steps above to create and deploy your checklist:
